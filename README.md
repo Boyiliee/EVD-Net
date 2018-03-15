@@ -1,5 +1,5 @@
 # EVD-Net
-EVD-Net is an efficient end-to-end video dehazing nerual network.
+EVD-Net is an efficient end-to-end video dehazing neural network.
 
 It is very easy for you to train or test based on EVD-Net.
 
